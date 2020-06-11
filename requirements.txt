@@ -1,8 +1,0 @@
-scipy
-tqdm
-numpy
-matplotlib
-ipdb
-scikit_learn
-papermill
-ipympl==0.3.3
